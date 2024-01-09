@@ -32,3 +32,6 @@ and do not reveal a significant impact on the regression performance.
 
 At the final stage, the hyperparameters of the models under study are tuned 
 using the Optuna package.
+
+# **Authors**
+- [Anton Fedarenka](https://github.com/anton-fedarenka)
